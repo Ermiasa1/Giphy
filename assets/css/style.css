@@ -1,0 +1,75 @@
+body{
+   
+    background-image: url("../images/spo2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 500px;
+
+  }
+    button {
+      margin-left: 10px;
+      margin-top: 15px;
+      margin-bottom: 10px;
+      
+
+    }
+    #inputPara{
+      font-weight: bold;
+      font-size: 18px;
+      color: black;
+      margin-left: 05px;
+    }
+    .paraClass{ 
+      font-weight: bold; 
+      font-size: 16px;
+      color: black; 
+      margin-left: 10px;
+     } 
+     .paraTclass{
+      font-weight: bold;
+      font-size: 16px;
+      color: black;
+      margin-left: 10px;
+      margin-bottom: 10px;
+     }
+    .picImg{
+      float: left;
+      margin-left: 15px;
+      margin-top:10px;
+      margin-bottom: 10px;
+      
+    }
+    
+    .imgdiv{
+      float: left;
+      
+    }
+    .paraDiv{
+      width: 250px;
+      font-weight: bold;
+      margin-top:10px;
+      margin-bottom:10px;
+      margin-left: 10px;   
+    }
+    .paraTdiv{
+      width: 250px;
+     
+      margin-top:10px;
+      margin-left: 10px; 
+      margin-bottom:10px;
+    }
+
+   
+    #display{
+     float: left;
+            
+    }
+     #inputForm{
+      background-color:rgba(7, 95, 153, 0.952);
+
+     }
+     #inputSpace{
+      margin-left: 10px;
+
+     }
+   
